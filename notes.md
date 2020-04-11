@@ -5,7 +5,7 @@ To move the project on, it was decided that a 32-bit OS and Oracle 11g database 
 These project outcomes were poor because the system was not on supported platforms and there was no upgrade path for the 32-bit RHEL 6 OS.
 
 ## What I did
-### Phase 1 - Build a 32-bit CentOS 6 server and Oracle 11g database im a VM on my laptop 
+### Phase 1 - Build a 32-bit CentOS 6 server and Oracle 11g database in a VM on my laptop 
 - Restart supplier server in run-level 1 (single user).
 - Create new OS user with super-user (sudo) access rights.
 - Login with new sudoer user under OS run-level 3 (multi-user no GUI).
